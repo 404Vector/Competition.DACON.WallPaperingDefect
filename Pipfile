@@ -13,6 +13,8 @@ albumentations = "*"
 sklearn = "*"
 tqdm = "*"
 ipykernel = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
