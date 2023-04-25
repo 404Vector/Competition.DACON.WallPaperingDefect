@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "dcb32fb6a8fc02be7a332c5ed4ae2cda7ba7144a970a9db45d243c215d3e0362"
+            "sha256": "4970e70253718e131f20449b58f6569411bc11eafbe1a494b9af8955c4d9d20e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -267,6 +267,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==4.39.3"
+        },
+        "huggingface-hub": {
+            "hashes": [
+                "sha256:4d3d40593de6673d624a4baaaf249b9bf5165bfcafd1ad58de361931f0b4fda5",
+                "sha256:db83d9c2f76aed8cf49893ffadd6be24e82074da2f64b1d36b8ba40eb255e115"
+            ],
+            "markers": "python_full_version >= '3.7.0'",
+            "version": "==0.13.4"
         },
         "idna": {
             "hashes": [
@@ -1146,6 +1154,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==2023.4.12"
+        },
+        "timm": {
+            "hashes": [
+                "sha256:745c54f7b7985a18e08bd66c997b018c1c3fef99bbb8c018879a6f85571782f5",
+                "sha256:ea5aed42f94062a80da414e6f1791cb82012fdb54f7db72c607637914a521345"
+            ],
+            "index": "pypi",
+            "version": "==0.6.13"
         },
         "torch": {
             "hashes": [

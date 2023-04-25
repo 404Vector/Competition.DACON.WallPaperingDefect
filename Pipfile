@@ -15,6 +15,7 @@ tqdm = "*"
 ipykernel = "*"
 matplotlib = "*"
 seaborn = "*"
+timm = "*"
 
 [dev-packages]
 
